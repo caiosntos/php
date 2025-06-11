@@ -1,14 +1,16 @@
 <?php
 
+function adicionarCores(&$arrayCores, $novasCores) {
+    array_push($arrayCores, ...$novasCores);
+}
 
 $cores = array("Vermelho", "Azul");
 
-for($i = 0; $i<3 ; $i++) {
-    $adcionaCores = readline("Digite uma nova cor: ");
-    array_push($cores, $adcionaCores);
-}
+$novasCores = array("Verde", "Amarelo", "Roxo");
 
 
-"\n";
+adicionarCores($cores, $novasCores);
+
+
 echo "Cores atualizadas:\n";
 print_r($cores);
