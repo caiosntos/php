@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eeb78114-792f-47f9-96c3-d4bb48d5b56f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/OT5/adcionaDados.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OT5/criptografaArquivo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OT5/sensivel.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +45,11 @@
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "terminal",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "TEXT"
+    ]
   }
 }]]></component>
   <component name="RunManager">
@@ -77,7 +82,7 @@
       <workItem from="1749507322363" duration="4224000" />
       <workItem from="1749679884319" duration="4973000" />
       <workItem from="1750112569702" duration="4000000" />
-      <workItem from="1750198128314" duration="2151000" />
+      <workItem from="1750198128314" duration="2882000" />
     </task>
     <servers />
   </component>
