@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eeb78114-792f-47f9-96c3-d4bb48d5b56f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/OT5/criptografaArquivo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OT5/sensivel.txt" afterDir="false" />
-    </list>
+    <list default="true" id="eeb78114-792f-47f9-96c3-d4bb48d5b56f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +40,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "terminal",
+    "settings.editor.selected.configurable": "reference.webide.settings.project.settings.php",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -82,7 +79,7 @@
       <workItem from="1749507322363" duration="4224000" />
       <workItem from="1749679884319" duration="4973000" />
       <workItem from="1750112569702" duration="4000000" />
-      <workItem from="1750198128314" duration="2882000" />
+      <workItem from="1750198128314" duration="4772000" />
     </task>
     <servers />
   </component>
