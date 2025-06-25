@@ -6,7 +6,7 @@ if($conexao->connect_error){
     die("Falha na conexão: " . $conexao->connect_error);
 }
 
-$descricao = "Artisan FX Hien L";
+$descricao = "Artisan FX Hien La";
 
 $consultaPreparada = $conexao->prepare("Insert into produto (descricao) values (?)");
 $consultaPreparada->bind_param("s", $descricao);
